@@ -6,10 +6,12 @@
     <title>MiniDB Test</title>
 </head>
 <body>
-  <input id="login" type="text" placeholder="login">
-  <br><input id="password" type="text" placeholder="password">
-  <br><button>Login</button>
-  <output id="alert">Test</output>
+  <form>
+    <input id="username" type="text" placeholder="username" required>
+    <input id="password" type="password" placeholder="password" required>
+    <br><button id="submit" type="submit" onclick="validate()">Login</button>
+    <output id="msg"></output>
+  </form>
 
   <!-- Scripts -->
   <script src="../lib/api.js"></script>
