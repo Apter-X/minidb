@@ -1,2 +1,8 @@
-# minidb
-Database client side using VanillaJS
+# MiniDB
+Basic local JSON database using VanillaJS
+
+## Usage
+
+``` bash
+$ ./
+```
