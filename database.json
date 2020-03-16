@@ -1,12 +1,12 @@
 {
 	"meta": [
-		{
 
-		}
 	],
 	"user": [
 		{
-
+			"id": "001",
+			"username": "admin",
+			"password": "1234"
 		}
 	]
 }
