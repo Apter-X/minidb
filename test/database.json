@@ -1,0 +1,18 @@
+{
+	"meta": [
+		{
+			"title": "MiniDB",
+			"version": "0.1.0"
+		}
+	],
+	"user": [
+		{
+			"username": "admin",
+			"password": "1234"
+		},
+		{
+			"username": "modo",
+			"password": "456"
+		}
+	]
+}
