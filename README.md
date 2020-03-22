@@ -1,8 +1,8 @@
 # MiniDB
-Basic local JSON database using VanillaJS
+Primitive local JSON database using VanillaJS
 
 ## Usage
-
-``` bash
-$ ./
+The library are served with examples
+```bash
+$ node lib/*
 ```
